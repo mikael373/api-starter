@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bc282bf-c28a-45e3-9def-8eb67cadd56a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1j4UsC2yeHRSJUcdJikSngP0N7n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose.yaml" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goseed-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="goseed-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="goseed" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="goseed-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.mongodb: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml.mongodb: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="194" key="#Docker" timestamp="1603064624395">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="232" y="194" key="#Docker/0.0.2560.1040@0.0.2560.1040" timestamp="1603064624395" />
+    <state x="432" y="357" key="#Go_Modules" timestamp="1603063204676">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="432" y="357" key="#Go_Modules/0.0.2560.1040@0.0.2560.1040" timestamp="1603063204676" />
+    <state x="94" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603063792470">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="94" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1603063792470" />
+    <state x="478" y="403" key="DockerComposeFileDialog" timestamp="1603064634399">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="478" y="403" key="DockerComposeFileDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1603064634399" />
+    <state x="507" y="285" key="EnvironmentVariablesDialog" timestamp="1603064606784">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="507" y="285" key="EnvironmentVariablesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1603064606784" />
+    <state x="420" y="290" key="FileChooserDialogImpl" timestamp="1603064633225">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="420" y="290" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1603064633225" />
+    <state width="1234" height="347" key="GridCell.Tab.0.bottom" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.0.center" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.0.left" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.0.right" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.1.bottom" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.1.center" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.1.left" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state width="1234" height="347" key="GridCell.Tab.1.right" timestamp="1603073498131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="347" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1603073498131" />
+    <state x="987" y="253" width="585" height="534" key="find.popup" timestamp="1603071528463">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="253" width="585" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1603071528463" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/middlewares/middlewares.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>386</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>410</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>429</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>435</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>433</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>441</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../../Projects/go/pkg/mod/github.com/goonode/mogo@v0.0.0-20181028112152-10c38e9be609/document.go</url>
+          <line>442</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
